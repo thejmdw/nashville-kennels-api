@@ -10,26 +10,26 @@
           "id": 2,
           "name": "Rylee",
           "breed": "Aiedale",
-          "customerId": 1,
+          "customerId": 2,
           "locationId": 2
       },{
           "id": 3,
           "name": "Beauregard",
           "breed": "Bulldog",
-          "customerId": 1,
+          "customerId": 3,
           "locationId": 2
       },{
           "id": 4,
           "name": "Itty",
           "breed": "Yorkshire Terrier",
-          "customerId": 1,
-          "locationId": 2
+          "customerId": 4,
+          "locationId": 1
       },{
           "id": 5,
           "name": "Geechee",
           "breed": "Miniature Schnauzer",
-          "customerId": 1,
-          "locationId": 2
+          "customerId": 4,
+          "locationId": 1
       }
   ],
   "customers": [
@@ -51,7 +51,26 @@
           "address": "769 Depot St."
       }
   ],
-  "employees": [],
+  "employees": [
+      {
+          "id": 1,
+          "name": "Jeremy Bakker",
+          "locationId": 2
+      },{
+          "id": 2,
+          "name": "Rudy Kenny",
+          "locationId": 2
+      },{
+          "id": 3,
+          "name": "Jace Carr",
+          "locationId": 1
+      },{
+          "id": 4,
+          "name": "Kai Sierra",
+          "locationId": 1
+      }
+
+  ],
   "locations": [
       {
           "id": 1,
